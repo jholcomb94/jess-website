@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jess-website/static/css/main.a617e044.chunk.css",
+    "main.js": "/jess-website/static/js/main.315a1e2d.chunk.js",
+    "main.js.map": "/jess-website/static/js/main.315a1e2d.chunk.js.map",
+    "runtime-main.js": "/jess-website/static/js/runtime-main.36d16f08.js",
+    "runtime-main.js.map": "/jess-website/static/js/runtime-main.36d16f08.js.map",
+    "static/js/2.46a97dd0.chunk.js": "/jess-website/static/js/2.46a97dd0.chunk.js",
+    "static/js/2.46a97dd0.chunk.js.map": "/jess-website/static/js/2.46a97dd0.chunk.js.map",
+    "static/js/3.0e42e351.chunk.js": "/jess-website/static/js/3.0e42e351.chunk.js",
+    "static/js/3.0e42e351.chunk.js.map": "/jess-website/static/js/3.0e42e351.chunk.js.map",
+    "index.html": "/jess-website/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jess-website/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.46a97dd0.chunk.js.LICENSE.txt": "/jess-website/static/js/2.46a97dd0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jess-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d16f08.js",
+    "static/js/2.46a97dd0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.315a1e2d.chunk.js"
+  ]
+}
